@@ -1,7 +1,6 @@
 {
     "name": "wtdl/groupmessage",
     "description": "一个微信个人号,群消息功能",
-    "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -9,13 +8,10 @@
             "email": "szpengjian@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=7.0",
         "hanson/vbot": "^2.0"
     },
     "require-dev": {
-        "php": ">=7.0",
         "hanson/vbot": "^2.0"
     },
     "autoload": {
