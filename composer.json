@@ -1,11 +1,13 @@
 {
     "name": "wtdl/groupmessage",
     "description": "一个微信个人号,群消息功能",
+    "keywords": ["wechat", "wechatMessage", "message"],
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "pengjian",
-            "email": "szpengjian@gmail.com"
+            "email": "szpengjian@gmail.com",
+            "homepage": "https://www.szwtdl.cn"
         }
     ],
     "require": {
